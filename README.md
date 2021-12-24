@@ -14,3 +14,5 @@ Lista de certificados na DIO:
 - Projetos ageis com SCRUM
 - Trabalhando com Branches no GitHub
 - Primeiros passos para começar a programar
+- Introdução ao C# e .NET
+- IDE Instalação e configuração (Visual Studio)
