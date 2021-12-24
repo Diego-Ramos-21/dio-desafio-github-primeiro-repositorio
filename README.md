@@ -13,3 +13,4 @@ Lista de certificados na DIO:
 - Pensamento computacional
 - Projetos ageis com SCRUM
 - Trabalhando com Branches no GitHub
+- Primeiros passos para começar a programar
