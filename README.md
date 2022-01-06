@@ -4,15 +4,18 @@
 Diego Ramos
 
 Lista de certificados na DIO:
-- Aprenda o que são estrutura de dados e algoritmos
-- Fundamentos de arquitetura de sistemas
-- Git e GitHub Focado em PullRequest
-- Introdução a criação de websites com HTML5 e CSS3
-- Introducao ao GIT e ao GITHUB
-- Logica de programacao essesncial
-- Pensamento computacional
-- Projetos ageis com SCRUM
-- Trabalhando com Branches no GitHub
-- Primeiros passos para começar a programar
-- Introdução ao C# e .NET
-- IDE Instalação e configuração (Visual Studio)
+1. Aprenda o que são estrutura de dados e algoritmos
+2. Fundamentos de arquitetura de sistemas
+3. Git e GitHub Focado em PullRequest
+4. Introdução a criação de websites com HTML5 e CSS3
+5. Introducao ao GIT e ao GITHUB
+6. Logica de programacao essesncial
+7. Pensamento computacional
+8. Projetos ageis com SCRUM
+9. Trabalhando com Branches no GitHub
+10. Primeiros passos para começar a programar
+11. Introdução ao C# e .NET
+12. IDE Instalação e configuração (Visual Studio)
+13. Primeiros passos com DOTNET
+14. Criando o ambiente de desenvolvimento
+15. Programando com orientação a objeto com c#
