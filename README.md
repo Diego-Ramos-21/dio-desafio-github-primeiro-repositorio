@@ -19,3 +19,6 @@ Lista de certificados na DIO:
 13. Primeiros passos com DOTNET
 14. Criando o ambiente de desenvolvimento
 15. Programando com orientação a objeto com c#
+16. Construtores, Propriedades, Delegates e Eventos em DOTNET
+17. Fundamentos de coleções e LINQ com DOTNET
+18. Introdução a microsserviços com DOTNET
