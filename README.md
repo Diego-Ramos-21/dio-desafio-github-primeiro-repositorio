@@ -22,3 +22,7 @@ Lista de certificados na DIO:
 16. Construtores, Propriedades, Delegates e Eventos em DOTNET
 17. Fundamentos de coleções e LINQ com DOTNET
 18. Introdução a microsserviços com DOTNET
+19. Configuração e deploy na nuvem Microsoft Azure Cloud
+20. Continuous Integration e continuous Delivery na prática com DOTNET
+21. Introdução a APIs e metodos HTTP
+22. Introdução a design patterns com DOTNET
