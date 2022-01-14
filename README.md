@@ -26,3 +26,7 @@ Lista de certificados na DIO:
 20. Continuous Integration e continuous Delivery na prática com DOTNET
 21. Introdução a APIs e metodos HTTP
 22. Introdução a design patterns com DOTNET
+23. Introdução a engenharia de dados na azure
+24. Modelando um banco de dados na pratica com SQL SERVER
+25. SQL SERVER - Boas praticas em bancos relacionais
+26. SQL SERVER - Criando suas primeiras consultas
